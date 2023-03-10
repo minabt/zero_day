@@ -1,4 +1,4 @@
 # Vagrant - or - how to code in your local computer
-## Learning Objectives
-### Requirements
+## Learning Objecftives
+### Requirementsf
 #### More Info ####
